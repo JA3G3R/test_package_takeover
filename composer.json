@@ -1,5 +1,5 @@
 {
-  "name": "laravel/nova",
+  "name": "commonmark/cmark",
   "description": "POC",
   "type": "composer-plugin",
   "require": {
