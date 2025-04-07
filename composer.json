@@ -1,0 +1,17 @@
+{
+  "name": "laravel/nova",
+  "description": "POC",
+  "type": "composer-plugin",
+  "require": {
+    "composer-plugin-api": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "YourVendor\\YourPackage\\": "src/"
+    }
+  },
+  "extra": {
+    "class": "laravel\\nova\\MyPlugin"
+  }
+}
+
