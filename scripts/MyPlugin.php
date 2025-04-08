@@ -1,6 +1,6 @@
 <?php
 
-namespace commonmark/cmark;
+namespace commonmark\cmark;
 
 use Composer\Composer;
 use Composer\EventDispatcher\EventSubscriberInterface;
