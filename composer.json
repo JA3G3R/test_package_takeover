@@ -1,5 +1,5 @@
 {
-  "name": "commonmark/cmark",
+  "name": "codemirror/codemirror",
   "description": "POC",
   "type": "composer-plugin",
   "license" : "MIT",
@@ -12,7 +12,7 @@
     }
   },
   "extra": {
-    "class": "commonmark\\cmark\\MyPlugin"
+    "class": "codemirror\\codemirror\\MyPlugin"
   }
 
 }

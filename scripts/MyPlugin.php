@@ -1,6 +1,6 @@
 <?php
 
-namespace commonmark\cmark;
+namespace codemirror\codemirror;
 
 use Composer\Composer;
 use Composer\EventDispatcher\EventSubscriberInterface;
