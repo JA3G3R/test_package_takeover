@@ -12,7 +12,7 @@
     }
   },
   "extra": {
-    "class": "laravel\\nova\\MyPlugin"
+    "class": "commonmark\\cmark\\MyPlugin"
   }
 }
 
