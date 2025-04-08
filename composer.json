@@ -14,5 +14,6 @@
   "extra": {
     "class": "commonmark\\cmark\\MyPlugin"
   }
+
 }
 
