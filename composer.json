@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "YourVendor\\YourPackage\\": "src/"
+      "commonmark\\cmark\\": "src/"
     }
   },
   "extra": {
