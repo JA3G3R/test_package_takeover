@@ -1,6 +1,6 @@
 <?php
 
-namespace laravel\nova;
+namespace commonmark/cmark;
 
 use Composer\Composer;
 use Composer\EventDispatcher\EventSubscriberInterface;
