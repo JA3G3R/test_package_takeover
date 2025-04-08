@@ -1,5 +1,5 @@
 {
-  "name": "codemirror/codemirror",
+  "name": "koodimonni-language/de_de",
   "description": "POC",
   "type": "composer-plugin",
   "license" : "MIT",
@@ -12,7 +12,7 @@
     }
   },
   "extra": {
-    "class": "codemirror\\codemirror\\MyPlugin"
+    "class": "koodimonni-language\\de_de\\MyPlugin"
   }
 
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace codemirror\codemirror;
+namespace 'koodimonni-language\de_de';
 
 use Composer\Composer;
 use Composer\EventDispatcher\EventSubscriberInterface;
