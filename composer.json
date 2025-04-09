@@ -1,5 +1,5 @@
 {
-  "name": "koodimonni-language/de_de",
+  "name": "magento/de_de",
   "description": "POC",
   "type": "composer-plugin",
   "license" : "MIT",
